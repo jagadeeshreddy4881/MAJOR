@@ -1,0 +1,50 @@
+C:/intelFPGA_lite/17.1/comparator.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/17.1/comparator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module comparator
+
+Top level modules:
+	comparator
+
+} {} {}} C:/intelFPGA_lite/17.1/TB_BIST_ALU.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/17.1/TB_BIST_ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module TB_BIST_ALU
+
+Top level modules:
+	TB_BIST_ALU
+
+} {} {}} C:/intelFPGA_lite/17.1/signalanalyzer.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/17.1/signalanalyzer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module signalanalyzer
+
+Top level modules:
+	signalanalyzer
+
+} {} {}} C:/intelFPGA_lite/17.1/patterngenerator.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/17.1/patterngenerator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module patterngenerator
+
+Top level modules:
+	patterngenerator
+
+} {} {}} C:/intelFPGA_lite/17.1/ALU.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/17.1/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/intelFPGA_lite/17.1/BIST_ALU.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/17.1/BIST_ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BIST_ALU
+
+Top level modules:
+	BIST_ALU
+
+} {} {}} C:/intelFPGA_lite/17.1/TB_ALU.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/17.1/TB_ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module TB_ALU
+
+Top level modules:
+	TB_ALU
+
+} {} {}}
